@@ -57,32 +57,25 @@
 												
 	<!--<script type="text/javascript" src="/wp-content/fancybox/jquery.easing.1.3.js"></script>-->
 	<script type="text/javascript" src="/wp-content/fancybox/jquery.fancybox-1.2.1.pack.js"></script>
+
 <script type="text/javascript">
 jQuery(document).ready(function() {
     jQuery("a.fancy").fancybox();
 });
+	
+	
 </script>
-
-
-
-<script type='text/javascript' src='http://test.relotti.ru/wp-content/themes/Kapitan/js/masthead.js'></script>
+</body><script type='text/javascript' src='http://test.relotti.ru/wp-content/themes/Kapitan/js/masthead.js'></script>
 <script type='text/javascript' src='http://test.relotti.ru/wp-content/themes/Kapitan/js/modal.js'></script>
 <script type='text/javascript' src='http://test.relotti.ru/wp-content/themes/Kapitan/js/modal2.js'></script>
 <script type='text/javascript' src='http://test.relotti.ru/wp-content/themes/Kapitan/js/jquery.cookie.js'></script>
 <script type='text/javascript' src='http://test.relotti.ru/wp-content/themes/Kapitan/js/cook.js'></script>
 <script type='text/javascript' src='http://test.relotti.ru/wp-content/themes/Kapitan/js/mains_fn.js'></script>
-
-
+</html>      
+		
 <a id="toTop" href="#"><img src="/wp-content/uploads/2015/08/downarrow.png" align="absmiddle" border="0"/></a>
-<script type="text/javascript" src="http://test.relotti.ru/wp-content/themes/Kapitan/js/verx.js"></script><script type="text/javascript">// <![CDATA[
+<script type="text/javascript" src="/verx.js"></script><script type="text/javascript">// <![CDATA[
 $(function() {
 $("#toTop").scrollToTop();
 });
 // ]]></script>
-
-</body>
-
-</html>      
-		
-
-
