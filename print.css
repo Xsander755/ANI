@@ -1,0 +1,65 @@
+.content {
+    visibility: hidden;
+}
+.description,
+#botmenu,
+.pn,
+#footer,
+#modal_form_2,
+.head_gorod,
+.tel_white,
+.choise_lang,
+.tel_white_big,
+.choise_lang_2 {
+    display: none;
+}
+.gallery {
+    visibility: hidden;
+    z-index: -5;
+}
+#strelka,
+#toTop,
+.razm_divan,
+.logo {
+    visibility: hidden;
+}
+.right_column h3:first-child {
+    visibility: visible;
+    position: absolute;
+    z-index: 1;
+    transform: scale(1.9);
+    left: 50px;
+    top: 206px;
+}
+.razm_divan_2 {
+    position: absolute;
+    visibility: visible;
+    width: 100%;
+    z-index: 10;
+    top: 290px;
+    left:100px;
+   
+}
+.razm_divan_2 img {
+    position: absolute;
+    width: 740px;
+    height: 633px;
+    display: inline-block;
+    
+}
+.sm {
+    position: absolute;
+    display: block;
+    z-index: 0;
+    top: 0;
+    left: 0;
+    width: 782px;
+    min-height: 1146px;
+}
+.sm img {
+    position: absolute;
+    width: 782px;
+    min-height: 1146px;
+    top: 0;
+    left: 0;
+}
