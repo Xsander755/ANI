@@ -1,8 +1,6 @@
-
 .sp_hide{visibility: hidden; left:50px; }
 
 /*
-
 Theme Name:Kapitan
 Theme URL: http://ddays.ru/
 Description: Free WordPress theme
@@ -10,7 +8,6 @@ Author: Jinsona&Kapitan
 Author URI: www.ddays.ru
 Version: 1.0.0
 Tags: Black, white, Fullscreen, photography, Portfolio, twitter, fixed-width, theme-options, threaded-comments, banner ads, fab themes.
-
 */
 
 #strelka {
@@ -780,7 +777,6 @@ h1.logo img{
 .entry a:visited {
    	color:#4D87A7;
 	}
-
 .entry a:hover {
 	color:#000;
 	background-color: transparent;
@@ -1258,7 +1254,6 @@ ol.commentlist li ul.children {
 	list-style:none;
 	margin:1em 0 0;
 	text-indent:0;
-  padding: 0;
 
 }
 
